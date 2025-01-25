@@ -1,0 +1,6 @@
+[book]
+authors = ["Simona Cancian"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Gaki Discord Bot Commands"

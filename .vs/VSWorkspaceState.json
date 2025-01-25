@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\src",
+    "\\src\\Commands",
+    "\\src\\Commands\\Prefix",
+    "\\src\\Commands\\Slash"
+  ],
+  "SelectedNode": "\\.github\\workflows\\mdbook.yml",
+  "PreviewInSolutionExplorer": false
+}
