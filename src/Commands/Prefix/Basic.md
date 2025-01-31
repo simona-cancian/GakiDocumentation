@@ -1,17 +1,13 @@
 # Basic Commands
 This is a list of basic commands that you can use with the prefix.
 
-### !test | This commns sends a simple message.
-### !add | This command adds two numbers together.
-### !embed | This command sends an embed message.
-### !cardgame | This command starts a card game.
-### !wait | This command sends a message after a certain amount of time.
-### !reaction | This command waits for a reaction from a user.
-### !poll | This command starts a poll.
-
-## Next Steps (to be added))
-
 ### !ping | This command sends a message and checks the bot's latency.
+### !poll | This command starts a poll.
+### !dadjoke | This command tells a dad joke.
+### !anime [anime title]| This command displays a list of animes searched by its title.
+
+## Next Steps (to be added)
+
 ### !say | This command sends a message that you input.
 ### !help | This command sends a list of commands that you can use.
 ### !prefix | This command sends the current prefix.
